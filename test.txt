@@ -1,12 +1,6 @@
-
 ��1
 
 Agrego una linea en el txt
 
 
-
-
 voy a commitear esta linea para despues borrarla
-
-
-agrego otra blabla
