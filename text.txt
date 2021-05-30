@@ -1,0 +1,8 @@
+
+con i empiezo a editar
+
+con esc me salgo de la edicion
+
+porngo : w y se me guarda
+
+pongo :q y salgo del archivo
